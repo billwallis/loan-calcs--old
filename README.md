@@ -1,3 +1,7 @@
+> [!WARNING]
+>
+> Superseded by https://github.com/billwallis/loan-calcs.
+
 loan-calcs
 ---
 
